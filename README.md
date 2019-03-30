@@ -1,2 +1,2 @@
-# Ceasar-Cipher
-A basic implementation of the Ceasar Cipher using Python3.
+# Caesar-Cipher
+A basic implementation of the Caesar Cipher using Python3.
